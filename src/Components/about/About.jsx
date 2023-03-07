@@ -36,10 +36,14 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore
-            deserunt quidem odio doloremque dolorem quasi in, atque quas nisi
-            quam quis at consequuntur unde nemo natus exercitationem molestias
-            architecto accusantium!
+            Experienced Web Developer adept in all stages of advanced web
+            development. Knowledgeable in user interface, testing, and debugging
+            processes. Bringing forth expertise in design, installation, testing
+            and maintenance of web systems. Equipped with a diverse and
+            promising skill-set. Proficient in an assortment of technologies,
+            including C#, IIS, Tomcat, and Microsoft SQL Server. Able to
+            effectively self-manage during independent projects, as well as
+            collaborate in a team setting.
           </p>
 
           <a href="contact" className="btn btn-primary">

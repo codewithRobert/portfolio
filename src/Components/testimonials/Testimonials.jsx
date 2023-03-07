@@ -35,9 +35,8 @@ const Testimonials = () => {
           </div>
           <h5 className="client__name">Ernest Achiver</h5>
           <small className="client_review">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-            error velit fugit at ad vel quas eveniet sequi sunt totam voluptatum
-            ex, et quo veritatis! Similique dolores praesentium eaque minima.
+           work in Asia's 1st company in BFSI sector,security printing 
+           as a Database administrator , 
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
@@ -46,9 +45,8 @@ const Testimonials = () => {
           </div>
           <h5 className="client__name">Ernest Achiver</h5>
           <small className="client_review">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-            error velit fugit at ad vel quas eveniet sequi sunt totam voluptatum
-            ex, et quo veritatis! Similique dolores praesentium eaque minima.
+            develope more than 100+ live web application for the clients,
+            they said it helps to promote thier business online and growth in thier buisnesess.
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
@@ -57,9 +55,8 @@ const Testimonials = () => {
           </div>
           <h5 className="client__name">Ernest Achiver</h5>
           <small className="client_review">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-            error velit fugit at ad vel quas eveniet sequi sunt totam voluptatum
-            ex, et quo veritatis! Similique dolores praesentium eaque minima.
+          develope more than 100+ live web application for the clients,
+            they said it helps to promote thier business online and growth in thier buisnesess.
           </small>
         </SwiperSlide>
         <SwiperSlide className="testimonial">
@@ -68,9 +65,9 @@ const Testimonials = () => {
           </div>
           <h5 className="client__name">Ernest Achiver</h5>
           <small className="client_review">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit
-            error velit fugit at ad vel quas eveniet sequi sunt totam voluptatum
-            ex, et quo veritatis! Similique dolores praesentium eaque minima.
+         
+           work in Asia's 1st company in BFSI sector,security printing 
+           as a Database administrator , 
           </small>
         </SwiperSlide>
       </Swiper>
